@@ -5,8 +5,11 @@ In this homework I analized given stock data using VBA. It is designed to perfor
 
 # Files
 *Screenshots of the results
+
   **Sheet1.png,Sheet2.png,Sheet3.png
+  
 *Separate VBA script files
+
   **VBA-Challenge.bas
 
 # VBA Steps
